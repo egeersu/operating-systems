@@ -1,0 +1,35 @@
+OS Notes
+
+How do processes share a computer's memory?
+- Virtual memory address
+
+What info is stored in a process image?
+
+What is an Exceptional Control Flow (ECF) ?
+
+What is a trap exception?
+
+Basic states of a process
+READY: it is waiting for CPU time. Not executing yet. 
+RUNNING: on the cpu
+
+What is swapping?
+
+What are the reasons why a process might terminate?
+- done its job
+- exception
+- unrecoverable something (?)
+- killed by another process (system call: kill)
+
+Process
+fork: create a copy of the parent process
+exec: transfer control to child process
+
+Threads
+
+
+
+
+
+
+
